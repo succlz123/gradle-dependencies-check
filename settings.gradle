@@ -1,0 +1,4 @@
+rootProject.name = 'dependencies-check'
+include ':app'
+include ':app-test'
+include ':plugin'

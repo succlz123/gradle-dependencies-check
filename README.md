@@ -1,6 +1,6 @@
 ## Dependencies Check
 
-A Gradle plugin that can hint user the same Gradle dependent library does not have the same version.
+A Gradle plugin that can hint user for the same Gradle dependent library does not have the same version.
 
 
 ## Usage

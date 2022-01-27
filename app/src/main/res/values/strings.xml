@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">dependencies-check</string>
+    <string name="app_name1">check1</string>
+    <string name="app_name2">check2</string>
+    <string name="app_name3">check3</string>
+    <string name="app_name4">check4</string>
+    <string name="app_name5">check5</string>
+    <string name="app_name6">check6</string>
 </resources>
